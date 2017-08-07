@@ -1,0 +1,12 @@
+body {
+  font-size: 14px;
+}
+body .nav {
+  width: 100px;
+}
+body .calor {
+  color: red;
+}
+body .cloor {
+  color: blue;
+}

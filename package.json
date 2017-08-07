@@ -1,0 +1,32 @@
+{
+  "name": "gulpWebpack",
+  "version": "1.0.0",
+  "author": "anrui",
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-clean": "0.3.1",
+    "gulp-concat": "2.6.0",
+    "gulp-connect": "2.2.0",
+    "gulp-cssmin": "0.1.7",
+    "gulp-file-include": "0.13.7",
+    "gulp-less": "3.0.3",
+    "gulp-md5-plus": "0.1.8",
+    "gulp-open": "1.0.0",
+    "gulp-uglify": "1.4.2",
+    "gulp-util": "~2.2.9",
+    "gulp-watch": "4.1.0",
+    "gulp-sequence": "latest",
+    "webpack": "~1.0.0-beta6",
+    "gulp-changed": "latest",
+    "gulp-plumber": "latest",
+    "babel-core": "latest",
+    "babel-loader": "latest",
+    "babel-preset-es2015": "latest",
+    "babel-plugin-transform-runtime": "latest"
+  },
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC"
+}
